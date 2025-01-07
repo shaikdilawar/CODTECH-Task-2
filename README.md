@@ -12,7 +12,11 @@ The Student Grades Tracker is a Java console-based application designed to help 
 
 ## Key Concepts:
 Input Handling: Capturing and processing user input using the Scanner class.
+
 Validation: Ensuring data integrity by checking input ranges.
+
 Control Structures: Utilizing loops (for loop for grade entry) and conditionals (if-else statements for grading logic).
+
 Array Usage: Storing grades in an array to facilitate dynamic input and calculations.
+
 Modular Design: Organizing logic in a structured and readable manner.
